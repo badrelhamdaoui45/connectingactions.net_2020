@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 02 Mar 2024 14:35:15 at https://connectingactions.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://connectingactions.net/ -O1 "C:\My Web Sites\https___connectingactions.net_2020" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:35:25	Error: 	"Method Not Allowed" (405) at link https://connectingactions.net/xmlrpc.php (from https://connectingactions.net/)
+14:35:37	Warning: 	Moved Permanently for https://connectingactions.net/?p=297
+14:35:37	Warning: 	File has moved from https://connectingactions.net/?p=297 to https://connectingactions.net/who-we-are/
+14:35:51	Warning: 	Moved Permanently for https://connectingactions.net/?p=248
+14:35:51	Warning: 	File has moved from https://connectingactions.net/?p=248 to https://connectingactions.net/supporters/
+14:35:57	Warning: 	Moved Permanently for https://connectingactions.net/?p=281
+14:35:57	Warning: 	File has moved from https://connectingactions.net/?p=281 to https://connectingactions.net/2023/06/european-network-for-dialogue-on-the-middle-east/
+14:35:57	Warning: 	Moved Permanently for https://connectingactions.net/2023/06/276/
+14:35:57	Warning: 	File has moved from https://connectingactions.net/2023/06/276/ to https://connectingactions.net/2023/06/rapport-fr-proche-orient-en-dialogue/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=276
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=276 to https://connectingactions.net/2023/06/rapport-fr-proche-orient-en-dialogue/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=269
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=269 to https://connectingactions.net/2023/06/middle-east-in-dialogue-report/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=234
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=234 to https://connectingactions.net/2022/02/dialogue-not-hate-ebook/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=179
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=179 to https://connectingactions.net/2021/05/the-tolerance-conference-interfaith-testimonies/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=111
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=111 to https://connectingactions.net/2017/07/connecting-muslim-jewish-actions-toolkit/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=153
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=153 to https://connectingactions.net/2018/08/press-release-launch-of-european-institute-for-dialogue-eifd/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=155
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=155 to https://connectingactions.net/2018/08/connecting-actions-2018-coalition-report-and-actions-plan/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=134
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=134 to https://connectingactions.net/2018/02/connecting-actions-2017-report/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=129
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=129 to https://connectingactions.net/2018/01/post-conference-press-release-2017/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=124
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=124 to https://connectingactions.net/2017/11/program-2017/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=77
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=77 to https://connectingactions.net/2017/01/connecting-actions-2016-report/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=70
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=70 to https://connectingactions.net/2016/12/post-conference-press-release-2016/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=36
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=36 to https://connectingactions.net/2016/11/preliminary-schedule/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=28
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=28 to https://connectingactions.net/2016/11/pre-conference-press-release-2016/
+14:36:11	Warning: 	Moved Permanently for https://connectingactions.net/?p=1
+14:36:11	Warning: 	File has moved from https://connectingactions.net/?p=1 to https://connectingactions.net/2016/11/communique-de-presse-avant-la-conference-2016/
+
+HTTrack Website Copier/3.49-2 mirror complete in 56 seconds : 221 links scanned, 200 files written (13802603 bytes overall) [12409325 bytes received at 221595 bytes/sec], 2005837 bytes transferred using HTTP compression in 96 files, ratio 25%, 5.2 requests per connection
+(1 errors, 38 warnings, 0 messages)
